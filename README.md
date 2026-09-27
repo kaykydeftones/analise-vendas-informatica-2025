@@ -12,6 +12,7 @@ A empresa possui 5 filiais (Centro, Barra da Tijuca, Botafogo, Irajá e Bangu) e
 - readxl (leitura do Excel)
 - dplyr (manipulação dos dados)
 - ggplot2 (visualização)
+- scales (ajuste)
 
 ## Análises realizadas
 
